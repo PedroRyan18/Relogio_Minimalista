@@ -4,7 +4,7 @@
         Title="Clock" Height="60" Width="120"
         WindowStyle="None" AllowsTransparency="True" Background="Transparent" Topmost="True"
         MouseDown="Window_MouseDown"
-        ShowInTaskbar="False" ResizeMode="NoResize" Icon="/clock-with-white-face_icon-icons.com_72804.ico"
+        ShowInTaskbar="False" ResizeMode="NoResize"
         x:Name="TelaPrincipal">
     <Grid>
         <Border CornerRadius="10 10 10 10">
@@ -29,7 +29,6 @@
                     FontWeight="Bold"
                     Padding="5"
                     Text="01/01/2025"/>
-
             </Grid>
         </Border>
     </Grid>

@@ -3,6 +3,7 @@ using System.Windows;
 using System.Windows.Input;
 using System.Windows.Forms; // Biblioteca para NotifyIcon
 using System.Windows.Threading;
+using System.Drawing;
 
 namespace WpfApp1
 {
@@ -29,12 +30,13 @@ namespace WpfApp1
             var windowHeight = this.Height;
 
             this.Left = screenWidth - windowWidth - 10; // 10px de margem
-            this.Top = screenHeight - windowHeight - 40;
+            this.Top = screenHeight - windowHeight - 50;
 
             // Configurar NotifyIcon (ícone da bandeja)
             _notifyIcon = new NotifyIcon
             {
-                Icon = new System.Drawing.Icon("clock-with-white-face_icon-icons.com_72804.ico"),
+                //Icon = new System.Drawing.Icon("clock-with-white-face_icon-icons.com_72804.ico"),
+                Icon = SystemIcons.Application,
                 Visible = true,
                 Text = "Clock App"
             };
