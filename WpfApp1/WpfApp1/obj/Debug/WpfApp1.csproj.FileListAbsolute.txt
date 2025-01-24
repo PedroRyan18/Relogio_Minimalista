@@ -1,0 +1,14 @@
+C:\Users\pedro.fernandes\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\pedro.fernandes\source\repos\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\pedro.fernandes\source\repos\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\pedro.fernandes\source\repos\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\pedro.fernandes\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\pedro.fernandes\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\pedro.fernandes\source\repos\WpfApp1\WpfApp1\obj\Debug\RelogioMinimalista_MarkupCompile.cache
+C:\Users\pedro.fernandes\source\repos\WpfApp1\WpfApp1\obj\Debug\RelogioMinimalista.g.resources
+C:\Users\pedro.fernandes\source\repos\WpfApp1\WpfApp1\obj\Debug\RelogioMinimalista.Properties.Resources.resources
+C:\Users\pedro.fernandes\source\repos\WpfApp1\WpfApp1\obj\Debug\RelogioMinimalista.exe
+C:\Users\pedro.fernandes\source\repos\WpfApp1\WpfApp1\obj\Debug\RelogioMinimalista.pdb
+C:\Users\pedro.fernandes\source\repos\WpfApp1\WpfApp1\bin\Debug\RelogioMinimalista.exe.config
+C:\Users\pedro.fernandes\source\repos\WpfApp1\WpfApp1\bin\Debug\RelogioMinimalista.exe
+C:\Users\pedro.fernandes\source\repos\WpfApp1\WpfApp1\bin\Debug\RelogioMinimalista.pdb

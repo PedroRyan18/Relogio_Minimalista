@@ -1,0 +1,36 @@
+﻿<Window x:Class="WpfApp1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Clock" Height="60" Width="120"
+        WindowStyle="None" AllowsTransparency="True" Background="Transparent" Topmost="True"
+        MouseDown="Window_MouseDown"
+        ShowInTaskbar="False" ResizeMode="NoResize" Icon="/clock-with-white-face_icon-icons.com_72804.ico"
+        x:Name="TelaPrincipal">
+    <Grid>
+        <Border CornerRadius="10 10 10 10">
+            <Border.Background>
+                <SolidColorBrush Color="Black" Opacity="0.2"/>
+            </Border.Background>
+
+            <Grid>
+                <TextBlock x:Name="ClockText"
+                   HorizontalAlignment="Center"
+                   VerticalAlignment="Top"
+                   FontSize="32"
+                   Foreground="White"
+                   FontWeight="Bold"
+                   Text="00:00"/>
+
+                <TextBlock x:Name="DateText"
+                    HorizontalAlignment="Center"
+                    VerticalAlignment="Bottom"
+                    FontSize="13"
+                    Foreground="White"
+                    FontWeight="Bold"
+                    Padding="5"
+                    Text="01/01/2025"/>
+
+            </Grid>
+        </Border>
+    </Grid>
+</Window>
